@@ -18,12 +18,14 @@ img {
   padding: 20px;
   display: flex;
   justify-content: center;
+  
  
 }
 .flipBook{
   width:450 px;
   height:600 px;
   background: lavender;
+  position: fixed;
 }
 
 /* .demoPage:nth-child(2) {
@@ -44,7 +46,7 @@ img {
 
 .wrapper {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   margin: 30px;
 }
