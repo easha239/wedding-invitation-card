@@ -21,13 +21,8 @@ img {
  
 }
 .flipBook{
-  width:500 px;
-  height:620 px;
-   /* minWidth:200;
-   maxWidth={500}
-   minHeight={320}
-   maxHeight={750} */
-  
+  width:450 px;
+  height:600 px;
   background: lavender;
 }
 

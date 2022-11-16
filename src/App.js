@@ -18,8 +18,8 @@ export default function App() {
 
       <div className="book">
         <HTMLFlipBook className="flipBook"
-          width={500}
-          height={620}
+          width={450}
+          height={600}
           // minWidth={200}
           // maxWidth={500}
           // minHeight={320}
